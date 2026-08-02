@@ -84,9 +84,9 @@ Cloud backup and data sync across devices
 Dark mode and UI personalization options
 
 ## 🧑‍💻 Developer
-Rohith Selvan
+Miruthula
 
-📧 Email: rohithselvan10@gmail.com
+📧 Email: miruthu0304@gmail.com
 
 📍 India
 
